@@ -31,8 +31,8 @@ This project focuses on removing noise from medical images using both traditiona
 - Add a web UI for easy testing and deployment
 
 ## ✍️ Author
-**Prabhakar Rayal**  
-B.Tech CSE | Graphic Era Hill University  
-📍 Rishikesh, Uttarakhand, India  
-[GitHub Profile](https://github.com/Prabhakarrayal), 
-[LinkedIn Profile](https://in.linkedin.com/in/prabhakar-rayal-6639682)
+**Yashaswi Aryan**  
+B.Tech CSE | Tula's Institute Dehradun 
+📍 Dehradun, Uttarakhand, India  
+[GitHub Profile](), 
+[LinkedIn Profile]()
