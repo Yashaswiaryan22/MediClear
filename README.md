@@ -34,5 +34,4 @@ This project focuses on removing noise from medical images using both traditiona
 **Yashaswi Aryan**  
 B.Tech CSE | Tula's Institute Dehradun 
 📍 Dehradun, Uttarakhand, India  
-[GitHub Profile](), 
-[LinkedIn Profile]()
+
